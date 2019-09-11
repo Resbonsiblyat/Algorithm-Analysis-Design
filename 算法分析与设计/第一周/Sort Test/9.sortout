@@ -1,0 +1,4 @@
+qsort test : 0.768 Sec(s)
+merge sort test : 0.006 Sec(s)
+bubble sort test : 1.167 Sec(s)
+
